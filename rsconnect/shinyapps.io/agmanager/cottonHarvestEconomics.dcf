@@ -1,0 +1,12 @@
+name: cottonHarvestEconomics
+title: cottonHarvestEconomics
+username:
+account: agmanager
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1264216
+bundleId: 3229455
+url: https://agmanager.shinyapps.io/cottonHarvestEconomics/
+when: 1591299155.42737
+asMultiple: FALSE
+asStatic: FALSE
